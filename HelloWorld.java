@@ -6,6 +6,7 @@ class HelloWorld {
 		System.out.println("How are you?"); 
 		System.out.println("I am fine!"); 
 		System.out.println("What do you do?"); 
-		System.out.println("I am a software engineer"); 
+		System.out.println("I am a software engineer");
+		System.out.println("How old are you?"); 		
     }
 }
